@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: rgb(31, 29, 29);
+}
+
+.logo{
+    width: 23vh;
+    margin-left: 3%;
+}
+
+.fondo{
+    background-image: url("../imagenes/fondo/principal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    background-color: rgb(19, 20, 20);
+}
+
+.nav-item{
+    font-size: 180%;
+}
+
+.card-img-top{
+    width: 100%;
+    background-size: cover;
+}
+
+.onboar{
+    width: 100%;
+}
+
+.tabla{
+    width: 5vh;
+    background-size: cover;
+}
+
+
+.fin{
+    width: 50vh;
+}
